@@ -20,7 +20,7 @@ In order to connect readers familiar with the former name of the specification i
 
 ## The Initiative Name and Usage
 
-The **Open API Initiative** refers to the organization that oversees the specification. It must contain ONE space and FIVE capital letters. After the initial declaration, it may be referred to as the "OAI" in subsequent references, for example:
+The **Open API Initiative** refers to the organization that oversees the specification. It must contain TWO spaces and FIVE capital letters. After the initial declaration, it may be referred to as the "OAI" in subsequent references, for example:
 
 * *The OpenAPI Specification (OAS) provides an open governance model, as directed by the Open API Initiative's charter. The specification, although managed by the OAI, is are not one the same as the initiative itself.*
 

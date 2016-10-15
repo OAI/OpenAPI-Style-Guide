@@ -56,4 +56,4 @@ The Open API Initiative is one of the Linux Foundation's Collaborative Projects,
 
 This repository contains color (Pantone), black, and white versions of [the Open API Initiative's logo](./graphics/) in both vector and bitmap. Whenever possible, prefer the color logo, though white or black treatments may be considered more appropriate under certain conditions, and the lettering may be omitted where a purely graphical representation is required. The OpenAPI logo should not be deformed or used in a way that may be considered disrespectful. 
 
-The [official Pantone swatches](./Pantone+Color+Swatches.pdf) are also available for reference.
+The [official Pantone swatches](./Pantone%20Color%20Swatches.pdf) are also available for reference.

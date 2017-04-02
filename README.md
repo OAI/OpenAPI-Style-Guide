@@ -30,15 +30,15 @@ As per the charter, the Open API Initiative (OAI) provides an open source, techn
 
 * **Business Governance Board** ("BGB", second reference)
 
-    * Comprised of official corporate entities (companies, schools, non-profits, etc.) who have signed the official project membership agreement to be members of the Open API Initiative and are bound by the laws governed by the project’s charter. [[Read more here](https://openapis.org/governance/#BGB)]
+    * Comprised of official corporate entities (companies, schools, non-profits, etc.) who have signed the official project membership agreement to be members of the Open API Initiative and are bound by the laws governed by the project’s charter. [[Read more here](https://www.openapis.org/participate/how-to-contribute/governance#BGB)]
 
 * **Technical Developer Community** ("TDC", second reference)
 
-    * The Technical Developer Community (TDC) is open to any developer, end user or subject matter expert that chooses to participate in the activities of OAI, regardless of whether the participant is employed by an OAI Member company. Influence on the evolution of the OAS comes by engaging with the TDC in technical discussions and by contributing to the project. [[Read more here](https://openapis.org/governance/#TDC)]
+    * The Technical Developer Community (TDC) is open to any developer, end user or subject matter expert that chooses to participate in the activities of OAI, regardless of whether the participant is employed by an OAI Member company. Influence on the evolution of the OAS comes by engaging with the TDC in technical discussions and by contributing to the project. [[Read more here](https://www.openapis.org/participate/how-to-contribute/governance#TDC)]
 
 * **Technical Oversight Board** ("TOB", second reference)
 
-    * The Technical Oversight Board (TOB) is responsible for managing conflicts, violations of procedures or guidelines and any cross-project or high-level issues that cannot be resolved in the TDC for the Specification. The TOB shall also be responsible for adding, removing or re-organizing OAI Projects. The TOB shall not dictate or interfere with the day-to-day work of individual OAI Projects or their decisions. [[Read more here](https://openapis.org/governance/#TOB)]
+    * The Technical Oversight Board (TOB) is responsible for managing conflicts, violations of procedures or guidelines and any cross-project or high-level issues that cannot be resolved in the TDC for the Specification. The TOB shall also be responsible for adding, removing or re-organizing OAI Projects. The TOB shall not dictate or interfere with the day-to-day work of individual OAI Projects or their decisions. [[Read more here](https://www.openapis.org/participate/how-to-contribute/governance#TOB)]
 
 ## Linux Foundation
 

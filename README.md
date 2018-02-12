@@ -1,10 +1,10 @@
-# The Open API Initiative Style Guide
+# The OpenAPI Initiative Style Guide
 
 How to (and how not to) refer to the OAI in meetups, interviews, casual conversations, the settling of bar bets, and for conference presentations. 
 
-## A Short History of the Open API Initiative and the OpenAPI Specification
+## A Short History of the OpenAPI Initiative and the OpenAPI Specification
 
-On [Nov. 5, 2015](https://www.linuxfoundation.org/news-media/announcements/2015/11/new-collaborative-project-extend-swagger-specification-building), SmartBear in conjunction with 3Scale, Apigee, Capital One, Google, IBM, Intuit, Microsoft, PayPal, and Restlet announced the formation of the Open API Initiative, an open source project under the Linux Foundation. As part of the formation of the OAI, SmartBear donated the Swagger specification to the Linux Foundation, meaning that the OpenAPI Specification is semantically  identical to the specification formerly known as the Swagger 2.0 specification. It is widely recognized as the most popular open source framework for defining and creating RESTful APIs, and today tens of thousands of developers are building thousands of open source repos of tools leveraging the OpenAPI Specification. In 2010, the Swagger specification was created by Wordnik, who published it under an open source license one year later. In March of 2015, SmartBear acquired Wordnik's interests in the Swagger projects from its parent company, Reverb Technologies.
+On [Nov. 5, 2015](https://www.linuxfoundation.org/news-media/announcements/2015/11/new-collaborative-project-extend-swagger-specification-building), SmartBear in conjunction with 3Scale, Apigee, Capital One, Google, IBM, Intuit, Microsoft, PayPal, and Restlet announced the formation of the OpenAPI Initiative, an open source project under the Linux Foundation. As part of the formation of the OAI, SmartBear donated the Swagger specification to the Linux Foundation, meaning that the OpenAPI Specification is semantically  identical to the specification formerly known as the Swagger 2.0 specification. It is widely recognized as the most popular open source framework for defining and creating RESTful APIs, and today tens of thousands of developers are building thousands of open source repos of tools leveraging the OpenAPI Specification. In 2010, the Swagger specification was created by Wordnik, who published it under an open source license one year later. In March of 2015, SmartBear acquired Wordnik's interests in the Swagger projects from its parent company, Reverb Technologies.
 
 ## The Specification Name and Usage
 
@@ -20,21 +20,22 @@ In order to connect readers familiar with the former name of the specification i
 
 ## The Initiative Name and Usage
 
-The **Open API Initiative** refers to the organization that oversees the specification. It must contain TWO spaces and FIVE capital letters. After the initial declaration, it may be referred to as the "OAI" in subsequent references, for example:
+The **OpenAPI Initiative** refers to the organization that oversees the specification. It must contain TWO spaces and FIVE capital letters. After the initial declaration, it may be referred to as the "OAI" in subsequent references, for example:
 
-* *The OpenAPI Specification (OAS) provides an open governance model, as directed by the Open API Initiative's charter. The specification, although managed by the OAI, is not the same as the initiative itself.*
+* *The OpenAPI Specification (OAS) provides an open governance model, as directed by the OpenAPI Initiative's charter. The specification, although managed by the OAI, is not the same as the initiative itself.*
 
 ## References to Teams in the Project
 
-As per the charter, the Open API Initiative (OAI) provides an open source, technical community, within which industry participants may contribute to building a vendor-neutral, portable, and open specification for providing technical metadata for REST APIs — the Open API Specification (OAS). The following named groups may be properly referred to as:
+As per the charter, the OpenAPI Initiative (OAI) provides an open source, technical community, within which industry participants may contribute to building a vendor-neutral, portable, and open specification for providing technical metadata for REST APIs — the OpenAPI Specification (OAS). The following named groups may be properly referred to as:
 
 * **Business Governance Board** ("BGB", second reference)
 
-    * Comprised of official corporate entities (companies, schools, non-profits, etc.) who have signed the official project membership agreement to be members of the Open API Initiative and are bound by the laws governed by the project’s charter. [[Read more here](https://www.openapis.org/participate/how-to-contribute/governance#BGB)]
+    * Comprised of official corporate entities (companies, schools, non-profits, etc.) who have signed the official project membership agreement to be members of the OpenAPI Initiative and are bound by the laws governed by the project’s charter. [[Read more here](https://www.openapis.org/participate/how-to-contribute/governance#BGB)]
 
-* **Technical Developer Community** ("TDC", second reference)
+* **Technical Steering Committee** ("TSC", second reference)
 
-    * The Technical Developer Community (TDC) is open to any developer, end user or subject matter expert that chooses to participate in the activities of OAI, regardless of whether the participant is employed by an OAI Member company. Influence on the evolution of the OAS comes by engaging with the TDC in technical discussions and by contributing to the project. [[Read more here](https://www.openapis.org/participate/how-to-contribute/governance#TDC)]
+    * The Technical Steering Committee (TSC) is open to any developer, end user or subject matter expert that chooses to participate in the activities of OAI, regardless of whether the participant is employed by an OAI Member company. Influence on the evolution of the OAS comes by engaging with the TDC in technical discussions and by contributing to the project. [[Read more here](https://www.openapis.org/participate/how-to-contribute/governance#TDC)] 
+    * The OAI board approved a name change of this body from the Technical Developer Community to the Technical Steering Committee as of Feb. 8, 2018.
 
 * **Technical Oversight Board** ("TOB", second reference)
 

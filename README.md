@@ -34,7 +34,7 @@ As per the charter, the OpenAPI Initiative (OAI) provides an open source, techni
 
 * **Technical Steering Committee** ("TSC", second reference)
 
-    * The Technical Steering Committee (TSC) membership is open to any developer, end user or subject matter expert that participates in the activities of OAI, regardless of whether the participant is employed by an OAI member company. Influence on the evolution of the OAS comes by engaging with the TSC in technical discussions and by contributing to the project. [[Read more here](https://www.openapis.org/participate/how-to-contribute/governance#TDC)] 
+    * The Technical Steering Committee (TSC) is open to any developer, end user or subject matter expert that participates in the activities of OAI, regardless of whether the participant is employed by an OAI member company. Influence on the evolution of the OAS comes by engaging with the TSC in technical discussions and by contributing to the project. [[Read more here](https://www.openapis.org/participate/how-to-contribute/governance#TDC)] 
     * The OAI board approved a name change of this body from the Technical Developer Community to the Technical Steering Committee as of Feb. 8, 2018.
 
 * **Technical Oversight Board** ("TOB", second reference)

@@ -20,7 +20,7 @@ In order to connect readers familiar with the former name of the specification i
 
 ## The Initiative Name and Usage
 
-The **OpenAPI Initiative** refers to the organization that oversees the specification. It must contain TWO spaces and FIVE capital letters. After the initial declaration, it may be referred to as the "OAI" in subsequent references, for example:
+The **OpenAPI Initiative** refers to the organization that oversees the specification. It must contain ONE space and FIVE capital letters. After the initial declaration, it may be referred to as the "OAI" in subsequent references, for example:
 
 * *The OpenAPI Specification (OAS) provides an open governance model, as directed by the OpenAPI Initiative's charter. The specification, although managed by the OAI, is not the same as the initiative itself.*
 
@@ -43,7 +43,7 @@ As per the charter, the OpenAPI Initiative (OAI) provides an open source, techni
 
 ## Linux Foundation
 
-The Open API Initiative is one of the Linux Foundation's Collaborative Projects, which are independently funded software projects that harness the power of collaborative development to fuel innovation across industries and ecosystems. 
+The OpenAPI Initiative is one of the Linux Foundation's Collaborative Projects, which are independently funded software projects that harness the power of collaborative development to fuel innovation across industries and ecosystems. 
 
 * What is a Linux Foundation Collaborative Project?
 
@@ -55,6 +55,6 @@ The Open API Initiative is one of the Linux Foundation's Collaborative Projects,
 
 ### Graphics
 
-This repository contains color (Pantone), black, and white versions of [the Open API Initiative's logo](./graphics/) in both vector and bitmap. Whenever possible, prefer the color logo, though white or black treatments may be considered more appropriate under certain conditions, and the lettering may be omitted where a purely graphical representation is required. The OpenAPI logo should not be deformed or used in a way that may be considered disrespectful. 
+This repository contains color (Pantone), black, and white versions of [the OpenAPI Initiative's logo](./graphics/) in both vector and bitmap. Whenever possible, prefer the color logo, though white or black treatments may be considered more appropriate under certain conditions, and the lettering may be omitted where a purely graphical representation is required. The OpenAPI logo should not be deformed or used in a way that may be considered disrespectful. 
 
 The [official Pantone swatches](./graphics/Pantone%20Color%20Swatches.pdf) are also available for reference.

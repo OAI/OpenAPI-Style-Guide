@@ -45,7 +45,7 @@ As per the charter, the OpenAPI Initiative (OAI) provides an open source, techni
 
 ## Linux Foundation
 
-The Open API Initiative is one of the Linux Foundation's Collaborative Projects, which are independently funded software projects that harness the power of collaborative development to fuel innovation across industries and ecosystems. 
+The OpenAPI Initiative is one of the Linux Foundation's Collaborative Projects, which are independently funded software projects that harness the power of collaborative development to fuel innovation across industries and ecosystems. 
 
 * What is a Linux Foundation Collaborative Project?
 
@@ -57,7 +57,7 @@ The Open API Initiative is one of the Linux Foundation's Collaborative Projects,
 
 ### Graphics
 
-This repository contains color (Pantone), black, and white versions of [the Open API Initiative's logo](./graphics/) in both vector and bitmap. Whenever possible, prefer the color logo, though white or black treatments may be considered more appropriate under certain conditions, and the lettering may be omitted where a purely graphical representation is required. The OpenAPI logo should not be deformed or used in a way that may be considered disrespectful. 
+This repository contains color (Pantone), black, and white versions of [the OpenAPI Initiative's logo](./graphics/) in both vector and bitmap. Whenever possible, prefer the color logo, though white or black treatments may be considered more appropriate under certain conditions, and the lettering may be omitted where a purely graphical representation is required. The OpenAPI logo should not be deformed or used in a way that may be considered disrespectful. 
 
 The [official Pantone swatches](./graphics/Pantone%20Color%20Swatches.pdf) are also available for reference.
 

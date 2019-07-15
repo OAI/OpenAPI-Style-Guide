@@ -10,7 +10,7 @@ How to (and how not to) refer to the OAI in meetups, interviews, casual conversa
 
 * **Specification**: for example *"Can you send me your specification?"* (may be abbreviated less formally as "spec")
 
-* **OpenAPI** (when referring to the format in comparison to another): such as *"OpenAPI has a different signature mechanism than WSDL." *
+* **OpenAPI** (when referring to the format in comparison to another): such as *"OpenAPI has a different signature mechanism than WSDL."*
 
 In order to connect readers familiar with the former name of the specification it may be introduced as, *"The OpenAPI Specification, formerly known as the Swagger specification."* (Note that if Swagger is mentioned in this way, it should be accompanied by the word "specification" as Swagger remains SmartBear's trademark for certain open source tools.)
 

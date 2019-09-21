@@ -1,24 +1,33 @@
 # The OpenAPI Initiative Style Guide
 
-How to (and how not to) refer to the:
+How to (and how not to) refer to the following in meetups, interviews, casual conversations, the settling of bar bets, and for conference presentations.
 
-* **OpenAPI Specification (OAS)** &ndash; the popular API description format, and
+* **OpenAPI Specification (OAS)** &ndash; The popular API description format.
 
-* **OpenAPI Initiative (OAI)** &ndash; The organization that oversees the specification
-
-in meetups, interviews, casual conversations, the settling of bar bets, and for conference presentations. 
+* **OpenAPI Initiative (OAI)** &ndash; The organization that oversees the specification .
 
 ## The Specification Name and Usage
 
-When using the full name, OpenAPI Specification, it must contain ONE space and FIVE capital letters. Following the first instance, it may be referred to as:
+When using the full name, OpenAPI Specification, it must contain ONE space and FIVE capital letters. The following table shows other references that are permitted after the name's first instance.
 
-| USAGE                 | EXAMPLE                                                  | COMMENT                                   |
-| :-------------------- | :------------------------------------------------------- | :---------------------------------------- |
-| **OpenAPI Specification**<br/>or<br/>**Specification**<br/>or<br/>**Spec** | *Can you send me your specification?*    | This is the spec itself. |
-| **OpenAPI**           | *OpenAPI has a different signature mechanism than WSDL.* | Use when comparing to a different format. |
-| **OpenAPI Document**<br/>or<br/>**OAS Document**               | *Can you send us your OAS document?*    | This is a document written in the OAS format, not the spec itself. |
+**Referencing the specification format itself**
+
+| USAGE                           | EXAMPLE                                                  |
+| :------------------------------ | :------------------------------------------------------- |
+| **OAS**                         | *OAS 3.0 organizes reusable definitions into a new <code>components</code> object.*|
+| **OpenAPI**                     | *OpenAPI has a different signature mechanism than WSDL.*|
+| **OpenAPI Specification** | *The OpenAPI Specification allows markdown for formatted API documentation.*|
+
 
 To connect readers familiar with the former name of the specification, it may be introduced as *"The OpenAPI Specification, formerly known as the Swagger specification."*  **Note:** If Swagger is mentioned in this way, it should be accompanied by the word "specification," because Swagger&reg; remains SmartBear's trademark for certain open source tools.
+
+**Referencing files written in the OAS format**
+
+| USAGE                           | EXAMPLE                                                  |
+| :------------------------------ | :------------------------------------------------------- |
+| **OAS Document**                | *Can you send me your OAS document?*|
+| **OpenAPI Document**            | *Foo creates POJOs from OpenAPI documents.*|
+
 
 ## The Initiative Name and Usage
 

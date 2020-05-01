@@ -49,7 +49,7 @@ The OpenAPI Initiative is one of the Linux Foundation's Collaborative Projects, 
 
 * What is a Linux Foundation Collaborative Project?
 
-    * Collaborative Projects are independently funded software projects that harness the power of collaborative development to fuel innovation across industries and ecosystems. By spreading the collaborative DNA of the largest collaborative software development project in history, The Linux Foundation provides the essential collaborative and organizational framework so project hosts can focus on innovation and results. Linux Foundation Collaborative Projects span the enterprise, mobile, embedded and life sciences markets and are backed by many of the largest names in technology. For more information about Linux Foundation Collaborative Projects, please visit: [collabprojects.linuxfoundation.org](http://collabprojects.linuxfoundation.org/)
+    * Collaborative Projects are independently funded software projects that harness the power of collaborative development to fuel innovation across industries and ecosystems. By spreading the collaborative DNA of the largest collaborative software development project in history, The Linux Foundation provides the essential collaborative and organizational framework so project hosts can focus on innovation and results. Linux Foundation Collaborative Projects span the enterprise, mobile, embedded and life sciences markets and are backed by many of the largest names in technology. For more information about Linux Foundation Collaborative Projects, please visit: [linuxfoundation.org/projects](https://www.linuxfoundation.org/projects/)
 
 * What is the Linux Foundation?
 

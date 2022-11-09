@@ -28,7 +28,10 @@ Similarly, you may wish to have a graphic that uses the colors or visual themes 
 
 ## References to Teams in the Project
 
-As per the charter, the OpenAPI Initiative (OAI) provides an open source, technical community, within which industry participants may contribute to building a vendor-neutral, portable, and open specification for providing technical metadata for REST APIs — the OpenAPI Specification (OAS). The following named groups may be properly referred to as:
+As per the charter, the OpenAPI Initiative (OAI) provides an open source community, within which industry
+participants may easily contribute to building vendor-neutral, portable and open specifications
+for providing technical metadata for APIs – such as the “OpenAPI Specification” (collectively,
+“Specifications”). The following named groups may be properly referred to as:
 
 * **Business Governance Board** ("BGB", second reference)
 

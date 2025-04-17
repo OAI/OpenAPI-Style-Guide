@@ -4,15 +4,15 @@ How to (and how not to) refer to the OAI in meetups, interviews, casual conversa
 
 ## The Specification Name and Usage
 
-**OpenAPI Specification** refers the name of the popular API description format. It contains ONE space and FIVE capital letters. Following the first instance, it may be referred to as:
+**OpenAPI Specification** refers the name of the popular API description standard. It contains ONE space and FIVE capital letters. Following the first instance, it may be referred to as:
 
-* **OAS**: for example, *"Can you send us your OAS document?"*
+* **OAS**: for example, *"Which version of OAS are you using?"*
 
-* **Specification**: for example *"Can you send me your specification?"* (may be abbreviated less formally as "spec")
+* **OpenAPI document**: for when you need to refer to a description document that conforms to the specification (rather than the specification itself).
 
 * **OpenAPI** (when referring to the format in comparison to another): such as *"OpenAPI has a different signature mechanism than WSDL."*
 
-In order to connect readers familiar with the former name of the specification it may be introduced as, *"The OpenAPI Specification, formerly known as the Swagger specification."* (Note that if Swagger is mentioned in this way, it should be accompanied by the word "specification" as Swagger remains SmartBear's trademark for certain open source tools.)
+Since the OpenAPI name has become mainstream, it has become less necessary to introduce it as, *"The OpenAPI Specification, formerly known as the Swagger specification,"* though do so if you wish! (Note that if Swagger is mentioned in this way, it should be accompanied by the word "specification" as Swagger remains SmartBear's trademark for certain open source tools.)
 
 ## The Initiative Name and Usage
 
@@ -22,7 +22,7 @@ The **OpenAPI Initiative** refers to the organization that oversees the specific
 
 ## Guidelines for Naming Projects, Tools, or Organizations
 
-If you are creating something that works with or depends upon the OpenAPI Specification, you may decide you would like to use `OpenAPI` in the name of said thing. In these cases, it is important to consider whether your audience might confuse your effort as being under the auspices of the OpenAPI Initiative. Ask yourself, "Might someone think this was an official tool/project/group of the OAI?" If the answer is, "Maybe," then consider adding a modifier. For example, `OpenAPI Tools` vs `OpenAPI-based Tools` or even `Tools for OpenAPI`. If you're uncertain, please reach out via Twitter or email, and we can help work through it with you.
+If you are creating something that works with or depends upon the OpenAPI Specification, you may decide you would like to use `OpenAPI` in the name of said thing. In these cases, it is important to consider whether your audience might confuse your effort as being under the auspices of the OpenAPI Initiative. Ask yourself, "Might someone think this was an official tool/project/group of the OAI?" If the answer is, "Maybe," then consider adding a modifier. For example, `OpenAPI Tools` vs `OpenAPI-based Tools` or even `Tools for OpenAPI`. If you're uncertain, please reach out via [Bluesky](https://bsky.app/profile/openapis.org), Slack, or email, and we can help work through it with you.
 
 Similarly, you may wish to have a graphic that uses the colors or visual themes of the OpenAPI logo. Again, tread carefully, as it is important for the community that the OAI maintain a strong, recognizable brand. For example, if you're considering using the barbell element or the segmented circle, you may want to reach out to the OAI proactively to avoid a rebranding exercise later.
 

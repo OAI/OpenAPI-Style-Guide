@@ -14,6 +14,8 @@ How to (and how not to) refer to the OAI in meetups, interviews, casual conversa
 
 Since the OpenAPI name has become mainstream, it has become less necessary to introduce it as, *"The OpenAPI Specification, formerly known as the Swagger specification,"* though do so if you wish! (Note that if Swagger is mentioned in this way, it should be accompanied by the word "specification" as Swagger remains SmartBear's trademark for certain open source tools.)
 
+Speaking of trademark, please follow [the Linux Foundation guidelines for trademark usage](https://www.linuxfoundation.org/legal/trademark-usage) when using the OpenAPI logo. 
+
 ## The Initiative Name and Usage
 
 The **OpenAPI Initiative** refers to the organization that oversees the specification. It must contain ONE space and FIVE capital letters. After the initial declaration, it may be referred to as the "OAI" in subsequent references, for example:

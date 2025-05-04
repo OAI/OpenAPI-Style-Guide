@@ -32,7 +32,7 @@ As per the charter, the OpenAPI Initiative (OAI) provides an open source, techni
 
 * **Business Governance Board** ("BGB", second reference)
 
-    * Comprised of official corporate entities (companies, schools, non-profits, etc.) who have signed the official project membership agreement to be members of the OpenAPI Initiative and are bound by the laws governed by the project’s charter. [[Read more here](https://www.openapis.org/participate/how-to-contribute/governance#BGB)]
+    * Comprised of official corporate entities (companies, schools, non-profits, etc.) who have signed the official project membership agreement to be members of the OpenAPI Initiative and are bound by the laws governed by the project’s charter. [[Read more here](https://charter.openapis.org)]
 
 * **Technical Steering Committee** ("TSC", second reference)
 
